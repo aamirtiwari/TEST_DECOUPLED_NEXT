@@ -45,7 +45,7 @@ FRONTEND_URL=
 # These variables are needed to enable Preview
 PREVIEW_SECRET=
 CLIENT_ID=
-CLIENT_SECRET=
+CLIENT_SECRET= 
 ```
 
 4. Run `lando start`
