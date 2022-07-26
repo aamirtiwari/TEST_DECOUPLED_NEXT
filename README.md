@@ -1,7 +1,5 @@
 # Pantheon Decoupled Kit Next Drupal Starter
 
-
-
 There are two ways to get started with the Next Drupal Starter:
 
 **Option 1**: Use `create-next-app`
