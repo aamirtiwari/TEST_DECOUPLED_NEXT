@@ -2,6 +2,7 @@
 
 There are two ways to get started with the Next Drupal Starter:
 
+
 **Option 1**: Use `create-next-app`
 
 1. In your terminal, run the following command:
