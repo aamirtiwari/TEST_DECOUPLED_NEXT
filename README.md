@@ -8,6 +8,7 @@ There are two ways to get started with the Next Drupal Starter:
 
 1. In your terminal, run the following command:
 
+
 ```bash
 npx create-next-app -e https://github.com/pantheon-systems/next-drupal-starter --use-npm
 ```
